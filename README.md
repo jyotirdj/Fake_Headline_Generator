@@ -11,7 +11,3 @@ This is for educational and fun purposes only. Do not use it to spread misinform
 - Supports basic customization (you can add or change templates / word-lists)  
 - Easy to expand — you can integrate more advanced generation logic (e.g. template-based or ML-based) as you like
 
----
-
-## 📁 Structure
-
